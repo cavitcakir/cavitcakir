@@ -1,5 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently learning Rasa & NLU
 
+
+![](https://komarev.com/ghpvc/?username=cavitcakir&style=plastic)
 <!--
 **cavitcakir/cavitcakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
