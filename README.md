@@ -15,7 +15,7 @@
   </td>
   <td width="50%">
 
-&nbsp; <br> [![Spotify](https://spotify-now-playing-apchbl34j-cavitcakir.vercel.app/api/spotify)](https://open.spotify.com/user/cavitcakir)
+&nbsp; <br> [![Spotify](https://spotify-now-playing-qs8kdn3f9-cavitcakir.vercel.app/api/spotify)](https://open.spotify.com/user/cavitcakir)
     
   </td>
   </table>
