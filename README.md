@@ -1,3 +1,4 @@
+<!-- Credits: https://github.com/novatorem/novatorem  -->
 <table width="100%"> 
   <tr>
   <td width="50%">
