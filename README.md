@@ -6,8 +6,8 @@
 
 <br><p align="center"> Sabanci University - Computer Science 21' <br> TU Munich - Upcoming Informatics Student <br> <br>
   [![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/cavitcakir/)
-  [![E-Mail](https://img.shields.io/badge/Resume-Pdf-red?style=flat-square&logo=files&logoColor=white)](https://mailhide.io/e/zQevkqdS)
-  [![CV](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://cavitcakir.com/cavitcakir_CV.pdf)
+  [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/zQevkqdS)
+  [![CV](https://img.shields.io/badge/Resume-Pdf-red?style=flat-square&logo=files&logoColor=white)](https://cavitcakir.com/cavitcakir_CV.pdf)
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcavitcakir&count_bg=%23408E04&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=false)](https://hits.seeyoufarm.com)
     </p>
     
