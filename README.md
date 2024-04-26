@@ -5,7 +5,7 @@
       
 
 
-<br><p align="center"> <b>TU Munich - Informatics M.Sc <br> B.Sc. Sabanci University - Computer Science </b> <br> <br>
+<br><p align="center"> <b> TU Munich - M.Sc. Informatics <br> Sabanci University - B.Sc. Computer Science </b> <br> <br>
   [![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/cavitcakir/)
   [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/zQevkqdS)
   [![CV](https://img.shields.io/badge/Resume-Pdf-red?style=flat-square&logo=files&logoColor=white)](https://cavitcakir.github.io/cavitcakir_CV.pdf)
