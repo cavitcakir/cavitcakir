@@ -5,12 +5,12 @@
       
 
 
-<br><p align="center"> ML Engineer <br> TU Munich - Informatics M.Sc. <br> Sabanci University - Computer Science B.Sc. </b> <br> <br>
+<br><p align="center"> TU Munich - Informatics M.Sc. <br> Sabanci University - Computer Science B.Sc. </b> <br> <br>
   [![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/cavitcakir/)
   [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/zQevkqdS)
   [![CV](https://img.shields.io/badge/Resume-Pdf-red?style=flat-square&logo=files&logoColor=white)](https://cavitcakir.github.io/cavitcakir_CV.pdf)
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcavitcakir&count_bg=%23408E04&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
-    </p>
+  <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcavitcakir&count_bg=%23408E04&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
+    </p>-->
     
   </td>
   <td width="50%">
