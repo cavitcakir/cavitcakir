@@ -5,7 +5,7 @@
       
 
 
-<br><p align="center"> 🤖 [DataRobot](https://github.com/datarobot) <br> TU Munich - Informatics M.Sc. <br> Sabanci University - Computer Science B.Sc. </b> <br> <br>
+<br><p align="center"> 🤖 at [DataRobot](https://github.com/datarobot) <br> TU Munich - Informatics M.Sc. <br> Sabanci University - Computer Science B.Sc. </b> <br> <br>
   [![Linkedin](https://img.shields.io/badge/Linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/cavitcakir/)
   [![E-Mail](https://img.shields.io/badge/Email-Reveal-2a8?style=flat-square&logo=gmail&logoColor=white)](https://mailhide.io/e/zQevkqdS)
   [![CV](https://img.shields.io/badge/Resume-Pdf-red?style=flat-square&logo=files&logoColor=white)](https://cavitcakir.github.io/cavitcakir_CV.pdf)
